@@ -1,6 +1,6 @@
-# Template — Minicurso Pipeline de Dados (ETL)
+# Template — Minicurso de Introdução à Engenharia de Dados (ETL)
 
-Este repositório é o **template com o código inicial** que usaremos no minicurso de Pipeline de Dados (ETL), no dia **02/10**. Ele contém a estrutura do projeto e as funções que vamos implementar juntos durante o minicurso (`extract`, `transform`, `load`, etc.) — por isso o código ainda está incompleto, isso é esperado.
+Este repositório é o **template com o código inicial** que usaremos no minicurso de Introdução à Engenharia de Dados (ETL), no dia **02/10**. Ele contém a estrutura do projeto e as funções que vamos implementar juntos durante o minicurso (`extract`, `transform`, `load`, etc.) — por isso o código ainda está incompleto, isso é esperado.
 
 O restante deste documento traz os **requisitos que você precisa instalar e configurar antes do minicurso**. O objetivo é não gastarmos tempo de aula com instalação de ferramentas — se tudo estiver pronto com antecedência, começamos direto na prática.
 
