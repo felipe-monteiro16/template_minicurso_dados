@@ -2,7 +2,7 @@ from curl_cffi import requests
 from pathlib import Path
 import pandas as pd
 
-url = "https://dados.ons.org.br/api/3/action/package_show?id=cvu-usitermica" # trocar a base para uma mais leve
+url = "https://dados.ons.org.br/api/3/action/package_show?id=cvu-usitermica"
 SOURCE_RAW_PATH = Path("data/cvu-usitermica/source_raw")
 RAW_PATH = Path("data/cvu-usitermica/raw")
 
