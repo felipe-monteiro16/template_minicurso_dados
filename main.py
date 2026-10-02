@@ -4,7 +4,7 @@ import pandas as pd
 
 url = "https://dados.ons.org.br/api/3/action/package_show?id=cvu-usitermica"
 SOURCE_RAW_PATH = Path("data/cvu-usitermica/source_raw")
-RAW_PATH = Path("data/cvu-usitermica/raw")
+PROCESSED_PATH = Path("data/cvu-usitermica/processed")
 
 
 def extract() -> list[Path]:
